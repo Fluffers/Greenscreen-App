@@ -15,7 +15,7 @@ works with python 3.8.2 and opencv package.
 # Visualised usage
 
 ###### Video file input example
-[Video example](https://imgur.com/wZ49MjX)
+[Video example](https://i.imgur.com/wZ49MjX.mp4)
 
 ###### Camera input example
-[Camera example](https://imgur.com/a/b6JH4xI)
+[Camera example](https://i.imgur.com/Da0mpES.mp4)
